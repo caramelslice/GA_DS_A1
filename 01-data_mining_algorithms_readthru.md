@@ -20,7 +20,7 @@ Under "algorithms," pick one link and read through the text. in a markdown file,
 
 * What was the name of the algorithm you read about?
 
-Principal Components Analysis (PCA) and Singular Vector Decomposition (SVD)
+Answer: Principal Components Analysis (PCA) and Singular Vector Decomposition (SVD)
 These two are essentially closely replated. 
 
 * What data problem does it solve? (listed under Technique on previous page)
