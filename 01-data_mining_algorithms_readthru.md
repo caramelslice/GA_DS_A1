@@ -19,20 +19,21 @@ Read through Oracle's top level page on [data mining algorithms](http://www.orac
 Under "algorithms," pick one link and read through the text. in a markdown file, write up the following:
 
 * What was the name of the algorithm you read about?
+
 Principal Components Analysis (PCA) and Singular Vector Decomposition (SVD)
 These two are essentially closely replated. 
 
 * What data problem does it solve? (listed under Technique on previous page)
 
-Principal Components Analysis (PCA): creates new fewer composite attributes that respresent all the attributes.
-Singular Vector Decomposition: established feature extraction method that has a wide range of applications.
+Answer: Principal Components Analysis (PCA): creates new fewer composite attributes that respresent all the attributes. Singular Vector Decomposition: established feature extraction method that has a wide range of applications.
 
 * In layman's terms, what does the algorithm do? Even if you aren't sure, that's okay! Just try your best--we're not looking for perfect answers.
-PCA is commonly used in Dimensionality Reduction. We have a lot of variables that are correlated but we can reduce the number of variables by categorizing them, find the best matrix with fewer variables that still can explain the data.
-SVD deals with data compression. 
+
+Answer: PCA is commonly used in Dimensionality Reduction. We have a lot of variables that are correlated but we can reduce the number of variables by categorizing them, find the best matrix with fewer variables that still can explain the data. SVD deals with data compression. 
 
 * Come up with up to three applications of this algorithm in business. Try relating it to your own job or line of work, your other data interests, or what have you.
-SVD and PCA are commonly use dto solve complex systems such as neuroscience, photoscience,
+
+Answer: SVD and PCA are commonly used to solve complex systems such as neuroscience, photoscience,
 meteorology and oceanography - the number of variables to measure can be unwieldy and at times even deceptive, but the underlying dynamics can often be quite simple.
 
 
